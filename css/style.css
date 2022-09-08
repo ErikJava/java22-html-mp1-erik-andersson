@@ -1,0 +1,60 @@
+div {
+    text-align: center;
+}
+
+.topmargin {
+    margin-top: 100px;
+}
+
+body {
+    background-color:cornsilk;
+}
+
+h1 {
+    color: orange;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+    color: orange;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a {
+    color:darksalmon; 
+    background-color:yellow;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+a:hover, input:hover[type=submit] {
+    background-color:aquamarine
+}
+
+input[type=submit] {
+    background-color: orange;
+    height: 30px;
+    width: 60px;
+    font-size: 15px;
+ }
+
+img {
+    width: 250px;
+    border: 5px;
+    border-style: groove;
+    border-color: black;
+}
+
+q {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ul {
+    display: table;
+    margin: auto;
+    text-align: left;
+}
